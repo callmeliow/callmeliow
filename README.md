@@ -1,4 +1,4 @@
-I am **Liow Zhi Hao**, currently studying Bachelor Of Computer Science (Software Engineering) in Universiti Teknologi Malaysia.
+Hi there, **Thomas** here. Nice to meet you.
 - 👀 I’m interested in Web and Mobile development.
 - 🌱 I’m currently learning Web Tech related framework.
 - 📫 Kindly reach me [Here](zhdeveloper0605@gmail.com) if you want to access my private repo. 😉
